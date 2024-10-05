@@ -67,7 +67,6 @@ namespace TextAdventureGame
 
         private void TriggerEvents()
         {
-            // Example: If player is in the Ancient Castle and has the key, they win the game
             if (_player.CurrentLocation.Name == "Ancient Castle" && _player.HasItem("key"))
             {
                 Console.WriteLine("\nYou use the key to unlock a hidden chamber in the Ancient Castle.");
@@ -76,7 +75,7 @@ namespace TextAdventureGame
                 _isRunning = false;
             }
 
-            // Additional events can be added here based on game design
+       
         }
 
         public void DescribeCurrentLocation()

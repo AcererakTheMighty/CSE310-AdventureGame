@@ -1,0 +1,15 @@
+C:\Users\creep\CSE310-Module-1\bin\Debug\net8.0\CSE310-Module-1.exe
+C:\Users\creep\CSE310-Module-1\bin\Debug\net8.0\CSE310-Module-1.deps.json
+C:\Users\creep\CSE310-Module-1\bin\Debug\net8.0\CSE310-Module-1.runtimeconfig.json
+C:\Users\creep\CSE310-Module-1\bin\Debug\net8.0\CSE310-Module-1.dll
+C:\Users\creep\CSE310-Module-1\bin\Debug\net8.0\CSE310-Module-1.pdb
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.AssemblyInfoInputs.cache
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.AssemblyInfo.cs
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.csproj.CoreCompileInputs.cache
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.sourcelink.json
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.dll
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\refint\CSE310-Module-1.dll
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.pdb
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\CSE310-Module-1.genruntimeconfig.cache
+C:\Users\creep\CSE310-Module-1\obj\Debug\net8.0\ref\CSE310-Module-1.dll
